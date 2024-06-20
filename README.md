@@ -13,9 +13,8 @@
 
 ## 📫 How to reach me?
 
-⦿ Connect with me on [LinkedIn](https://linkedin.com/in/akshayhegde8055/) 👨🏻‍💻 <br>
-⦿ Follow me on [Hashnode](https://hashnode.com/@akshayhegde/) 🌐 <br>
-⦿ Shoot Me an [Email](mailto:akshayhegde8055@gmail.com) 💌 <br>
+⦿ Connect with me on [LinkedIn](www.linkedin.com/in/ankitsiingh) 👨🏻‍💻 <br>
+⦿ Shoot Me an [Email](mailto:ankitsingh.devops@gmail.com) 💌 <br>
 
 <div align="center">
   

@@ -23,7 +23,7 @@
   
   </div>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitthedevops&show_icons=true&locale=en&theme=gotham" alt="ankitthedevops" /></p>
 

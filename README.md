@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh </h1>
 <h3 align="center">A passionate DevOps Engineer. I have a keen interest in Cloud Computing, DevOps and automation. I am currently learning various DevOps tools and methodologies, with the goal of developing and deploying production-ready applications.</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitthedevops&theme=gotham" alt="ankitthedevops" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitthedevops&theme=gotham" alt="ankitthedevops" /></p> -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ankitthedevops&theme=dark)](https://git.io/streak-stats)
 
 <!--
 <img align='right' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="300">
